@@ -1,0 +1,190 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "keywords": ["stress", "stressed", "pressure", "overwhelmed", "burden", "tension", "too much"],
+      "emotion": "stress",
+      "gita_verse": "Bhagavad Gita 2.47",
+      "gita_insight": "You have the right to perform your duties, but never to the fruits of your actions. Do not let the results be your motive, nor be attached to inaction.",
+      "simple_explanation": "Stop worrying about what will happen. Focus only on what you are doing RIGHT NOW. Stress comes from thinking too much about tomorrow.",
+      "action_step": "Write down ONE thing you can do today. Do only that. Forget the rest for now. Take 5 deep breaths and begin."
+    },
+    {
+      "id": 2,
+      "keywords": ["fear", "afraid", "scared", "frightened", "worry", "anxious", "anxiety", "nervous", "panic"],
+      "emotion": "fear",
+      "gita_verse": "Bhagavad Gita 18.66",
+      "gita_insight": "Abandon all varieties of dharma and simply surrender unto Me. I shall liberate you from all sinful reactions. Do not fear.",
+      "simple_explanation": "Fear is an illusion created by your mind. Krishna reminds us that the soul is eternal and cannot be destroyed. What you fear losing is temporary.",
+      "action_step": "Ask yourself: What is the WORST that can happen? Can you survive it? Most times, yes. Face your fear by naming it out loud and accepting it."
+    },
+    {
+      "id": 3,
+      "keywords": ["money", "financial", "poor", "debt", "broke", "wealth", "income", "afford", "expensive"],
+      "emotion": "financial_stress",
+      "gita_verse": "Bhagavad Gita 3.19",
+      "gita_insight": "Without attachment, perform always the work that has to be done, for it is by performing work without attachment that one attains the Supreme.",
+      "simple_explanation": "Krishna does not say poverty is noble. He says: Do your work with full dedication but without greed or fear. Right action brings right results.",
+      "action_step": "List your skills. Find ONE way to use a skill to earn money this week. Stop comparing with others. Your path is unique."
+    },
+    {
+      "id": 4,
+      "keywords": ["sad", "sadness", "unhappy", "depressed", "depression", "grief", "crying", "tears", "miss", "lost"],
+      "emotion": "sadness",
+      "gita_verse": "Bhagavad Gita 2.14",
+      "gita_insight": "The contacts between the senses and sense objects give rise to feelings of heat and cold, pleasure and pain. These are temporary and come and go. Learn to tolerate them.",
+      "simple_explanation": "Sadness is real but temporary. Like winter becomes spring, this painful feeling WILL pass. You are not your emotions. You are the one watching them.",
+      "action_step": "Allow yourself to feel sad for 10 minutes. Then do ONE small kind thing for someone else. Helping others is the fastest way to feel better."
+    },
+    {
+      "id": 5,
+      "keywords": ["angry", "anger", "rage", "furious", "irritated", "frustrated", "hate", "unfair"],
+      "emotion": "anger",
+      "gita_verse": "Bhagavad Gita 2.63",
+      "gita_insight": "From anger comes delusion. From delusion, loss of memory. From loss of memory, the destruction of intelligence. From the destruction of intelligence, one perishes.",
+      "simple_explanation": "Krishna warns: Anger destroys your own judgment. When angry, you make your WORST decisions. The person who angers you is controlling you.",
+      "action_step": "When you feel anger rising — STOP. Leave the room. Drink water. Wait 24 hours before responding to anything important. Let the fire cool."
+    },
+    {
+      "id": 6,
+      "keywords": ["confused", "confusion", "lost", "direction", "purpose", "what to do", "decision", "choose", "choice"],
+      "emotion": "confusion",
+      "gita_verse": "Bhagavad Gita 3.35",
+      "gita_insight": "It is far better to perform one's own dharma imperfectly than to perform another's dharma perfectly.",
+      "simple_explanation": "Stop copying others. Your confusion comes from trying to live someone else's life. What is YOUR natural gift? What feels right to YOU?",
+      "action_step": "Sit quietly for 5 minutes. Ask yourself: If I had no fear and no need for money, what would I do? That answer is your direction."
+    },
+    {
+      "id": 7,
+      "keywords": ["lonely", "loneliness", "alone", "isolated", "no friends", "abandoned", "nobody"],
+      "emotion": "loneliness",
+      "gita_verse": "Bhagavad Gita 6.30",
+      "gita_insight": "For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me.",
+      "simple_explanation": "When you feel truly alone, remember — the divine consciousness is always with you, inside you. You are never truly alone.",
+      "action_step": "Reach out to ONE person today — a family member, old friend, or neighbor. Connection heals loneliness."
+    },
+    {
+      "id": 8,
+      "keywords": ["relationship", "love", "breakup", "heartbreak", "partner", "marriage", "divorce", "girlfriend", "boyfriend"],
+      "emotion": "relationship",
+      "gita_verse": "Bhagavad Gita 2.47",
+      "gita_insight": "Love without attachment is the highest form of love. When you love someone for who they truly are, not for what they give you, that love never causes pain.",
+      "simple_explanation": "Most relationship pain comes from expectations not being met. True love accepts people as they are, not as you want them to be.",
+      "action_step": "Ask yourself honestly: Am I loving this person or am I loving how they make me feel? True love accepts people as they are."
+    },
+    {
+      "id": 9,
+      "keywords": ["failure", "failed", "losing", "mistake", "regret", "shame", "give up", "hopeless"],
+      "emotion": "failure",
+      "gita_verse": "Bhagavad Gita 2.3",
+      "gita_insight": "Do not yield to impotence, O Arjuna. It does not become you. Shake off your faint-heartedness and arise.",
+      "simple_explanation": "Even Arjuna — the greatest warrior — wanted to give up before the biggest battle of his life. Krishna said: GET UP. Failure is not the end. It is a lesson.",
+      "action_step": "Write down what you learned from this failure. Every failure teaches something. Find the lesson. Use it. Then try again."
+    },
+    {
+      "id": 10,
+      "keywords": ["jealous", "jealousy", "envy", "comparison", "others are better", "why not me", "unfair life"],
+      "emotion": "jealousy",
+      "gita_verse": "Bhagavad Gita 12.13",
+      "gita_insight": "One who is not envious but is a kind friend to all living entities — such a devotee of Mine is very dear to Me.",
+      "simple_explanation": "Jealousy is a sign that you know what you want. Use it as information, not poison. Someone else's success does not reduce your chances.",
+      "action_step": "The next time you feel jealous, say: That is possible for me too. Then ask: What ONE step can I take today toward that goal?"
+    },
+    {
+      "id": 11,
+      "keywords": ["purpose", "meaning", "life purpose", "why am I here", "meaning of life", "what is life"],
+      "emotion": "existential",
+      "gita_verse": "Bhagavad Gita 3.19",
+      "gita_insight": "The purpose of life is not just to be happy. It is to be useful, honorable, compassionate, and to make a difference.",
+      "simple_explanation": "Your purpose is not found — it is lived. Every moment of service, love, and honest work IS your purpose expressing itself.",
+      "action_step": "Ask: How can I help ONE person today? Purpose is always found in service to others. Start small. Help someone near you right now."
+    },
+    {
+      "id": 12,
+      "keywords": ["family", "parents", "children", "conflict", "argument", "fight at home", "mother", "father"],
+      "emotion": "family",
+      "gita_verse": "Bhagavad Gita 16.2",
+      "gita_insight": "Fearlessness, purity of heart, steadfastness, charity, self-control — these are the divine qualities in a human being.",
+      "simple_explanation": "Peace at home starts with peace inside you. You cannot control others — only your own response. Be the calm in the storm.",
+      "action_step": "In your next family conflict, pause before speaking. Ask: Will what I am about to say heal or hurt? Choose healing words even when it is hard."
+    },
+    {
+      "id": 13,
+      "keywords": ["health", "sick", "illness", "disease", "pain", "suffering", "hospital", "doctor"],
+      "emotion": "health",
+      "gita_verse": "Bhagavad Gita 2.20",
+      "gita_insight": "The soul is never born nor dies at any time. It is not slain when the body is slain. The body is temporary; the soul is eternal.",
+      "simple_explanation": "Your body is like a vehicle for your soul. Take care of it with respect. But remember — your true self goes beyond your physical condition.",
+      "action_step": "Today, do ONE good thing for your body: drink more water, sleep 30 minutes earlier, eat one healthy meal. Small habits build great health."
+    },
+    {
+      "id": 14,
+      "keywords": ["career", "job", "work", "profession", "boss", "office", "workplace", "promotion", "fired"],
+      "emotion": "career",
+      "gita_verse": "Bhagavad Gita 18.45",
+      "gita_insight": "By devotion to one's own particular duty, every person can attain perfection.",
+      "simple_explanation": "Krishna says ANY honest work done with dedication is worship. How you do your work matters more than what work you do.",
+      "action_step": "Do your work today as if Krishna himself is watching. Give your full effort to even the smallest task. Excellence in small things leads to great opportunities."
+    },
+    {
+      "id": 15,
+      "keywords": ["addiction", "habit", "quit", "drinking", "smoking", "stop", "bad habit", "control"],
+      "emotion": "addiction",
+      "gita_verse": "Bhagavad Gita 6.5",
+      "gita_insight": "Elevate yourself through the power of your mind, and do not degrade yourself, for the mind can be the friend and also the enemy of the self.",
+      "simple_explanation": "Breaking a habit means training your mind to choose long-term peace over short-term pleasure.",
+      "action_step": "Identify ONE trigger that leads to this habit. Avoid that trigger today. Replace the habit with a 5-minute walk when the urge comes."
+    },
+    {
+      "id": 16,
+      "keywords": ["sleep", "insomnia", "cannot sleep", "tired", "exhausted", "rest", "awake at night"],
+      "emotion": "sleep",
+      "gita_verse": "Bhagavad Gita 6.17",
+      "gita_insight": "He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains.",
+      "simple_explanation": "Good sleep is not a luxury. It is essential for a clear mind and good decisions.",
+      "action_step": "Set a fixed sleep time tonight. One hour before bed: no phone, no news. Read or do light stretching. Your mind needs time to wind down."
+    },
+    {
+      "id": 17,
+      "keywords": ["exam", "study", "student", "education", "college", "school", "marks", "test", "result"],
+      "emotion": "academic",
+      "gita_verse": "Bhagavad Gita 2.47",
+      "gita_insight": "Focus on the effort, not the outcome. Study with full dedication not to get marks — but to gain true knowledge.",
+      "simple_explanation": "Do your duty. For a student, study is your Karma Yoga. Do it fully, without distraction, without obsessing over results.",
+      "action_step": "Study for 25 minutes with full focus, then take a 5-minute break. Repeat. Your concentration will improve in days."
+    },
+    {
+      "id": 18,
+      "keywords": ["confidence", "self doubt", "not good enough", "worthless", "weak", "believe", "trust myself"],
+      "emotion": "self_doubt",
+      "gita_verse": "Bhagavad Gita 18.66",
+      "gita_insight": "You are not this weak, helpless body and mind. You are the eternal soul — a fragment of the divine.",
+      "simple_explanation": "Self-doubt is a lie your mind tells you based on past failures. Your true self is divine, capable, and worthy.",
+      "action_step": "Write 3 things you are genuinely good at. Read them every morning. Confidence is built by taking small actions — do ONE brave thing today."
+    },
+    {
+      "id": 19,
+      "keywords": ["grateful", "thankful", "blessed", "happy", "joy", "good life", "content", "peace"],
+      "emotion": "gratitude",
+      "gita_verse": "Bhagavad Gita 12.14",
+      "gita_insight": "One who is always content and satisfied, who is always engaged in devotion — such a person is very dear to Me.",
+      "simple_explanation": "When you appreciate what you have, you attract more good things. Gratitude is the highest spiritual practice.",
+      "action_step": "Write 5 things you are grateful for right now. Share your gratitude with one person today — tell them why you appreciate them."
+    },
+    {
+      "id": 20,
+      "keywords": ["meditation", "spiritual", "god", "prayer", "inner peace", "calm", "mindful", "yoga"],
+      "emotion": "spiritual",
+      "gita_verse": "Bhagavad Gita 6.19",
+      "gita_insight": "Just as a lamp in a windless place does not flicker, so the mind of a yogi does not flicker, controlled in meditation.",
+      "simple_explanation": "Peace is not found outside — in money, people, or places. It is found inside, in the stillness beneath all your thoughts.",
+      "action_step": "Sit quietly for 5 minutes today. Close your eyes. Watch your breath. When thoughts come, let them pass like clouds. Just 5 minutes daily changes everything."
+    }
+  ],
+  "default_response": {
+    "gita_verse": "Bhagavad Gita 2.47",
+    "gita_insight": "You have the right to perform your duties, but not to the fruits of your actions. Focus on the present moment and your current duty.",
+    "simple_explanation": "Whatever you are going through, Krishna reminds you: You are stronger than you think. This moment is temporary. Do your best right now.",
+    "action_step": "Take one small positive action today. Drink water. Call someone you love. Go for a 10-minute walk. Small steps lead to big changes."
+  }
+}

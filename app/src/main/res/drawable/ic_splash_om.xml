@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Splash screen icon: stylised OM/AUM symbol
+    Replace this with your actual app icon vector for production.
+    This is a placeholder that uses Android's vector drawable format.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,54m-46,0a46,46 0,1 1,92 0a46,46 0,1 1,-92 0" />
+
+    <!-- OM text proxy - a simple star shape as placeholder -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M54,18
+            L58.5,40.5 L81,36 L65.5,53 L81,70 L58.5,66.5 L54,89
+            L49.5,66.5 L27,70 L42.5,53 L27,36 L49.5,40.5 Z" />
+
+</vector>

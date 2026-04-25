@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Backup rules — exclude sensitive data like preferences and database
+    from Android cloud backup. Subscription state must NOT be backed up
+    as it is validated against Google Play on each launch.
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="." />
+    <exclude domain="database" path="." />
+    <exclude domain="file" path="." />
+</full-backup-content>

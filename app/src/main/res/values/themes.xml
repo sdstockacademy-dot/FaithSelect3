@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme — Compose handles colors, this just sets the window background -->
+    <style name="Theme.FaithSelect" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash screen theme using core-splashscreen library -->
+    <style name="Theme.FaithSelect.Splash" parent="Theme.SplashScreen">
+        <!-- Background color behind the splash icon -->
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+
+        <!-- The splash icon (replace with your actual ic_launcher_foreground) -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_om</item>
+
+        <!-- Optional animated icon duration in ms -->
+        <item name="windowSplashScreenAnimationDuration">800</item>
+
+        <!-- Post-splash theme to transition into -->
+        <item name="postSplashScreenTheme">@style/Theme.FaithSelect</item>
+    </style>
+
+</resources>

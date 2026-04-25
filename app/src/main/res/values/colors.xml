@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash background matches the NavyDeep color from FaithColors -->
+    <color name="splash_background">#0D1B2A</color>
+
+    <!-- Gold accent -->
+    <color name="gold_primary">#D4AF37</color>
+
+    <!-- Status bar tint -->
+    <color name="navy_deep">#0D1B2A</color>
+</resources>

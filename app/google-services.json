@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378860797395",
+    "project_id": "faithselect-4f8bf",
+    "storage_bucket": "faithselect-4f8bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378860797395:android:e66851b5ea7358e3dac326",
+        "android_client_info": {
+          "package_name": "com.faithselect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfgjTIpGc3k-1cPdaRp3ESbGw0sKV7Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
